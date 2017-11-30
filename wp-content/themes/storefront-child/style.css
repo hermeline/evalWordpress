@@ -1,0 +1,15 @@
+/*
+Theme Name: storefront-child
+Description: Theme enfant storefront
+Author: Moi
+Author URI:
+Template: storefront
+Version: 0.1.0
+*/
+
+
+@import url("../storefront/style.css");
+.site-header{
+  display:none;
+}
+h1{color:red;}
